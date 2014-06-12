@@ -1,0 +1,6 @@
+*{margin: 0;padding: 0;border: 0;list-style-type: none;}
+body{margin: 50px;padding: 0;border: 0;}
+h1{font-family: 'Josefin Slab', serif;text-align: center;margin: 0 0 20px 0;}
+.instagram{width: 840px;margin: 0 auto;}
+.instagram li{display: inline-block;margin: 5px;}
+.instagram img{width: 200px;height: 200px;}
